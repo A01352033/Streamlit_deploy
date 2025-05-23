@@ -1,8 +1,8 @@
 import streamlit as st
 
 # Web page to tell my couple I love her 
-st.set_page_config(page_title="Anaí pendeja", page_icon="❤️")
-st.title("Anaí pendeja")
+st.set_page_config(page_title="Anaí bonita", page_icon="❤️")
+st.title("Anaí bonita")
 st.write("""
          
 
